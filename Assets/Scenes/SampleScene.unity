@@ -2455,7 +2455,7 @@ MonoBehaviour:
   - {fileID: 804289254}
   - {fileID: 862554494}
   _screenDeath: {fileID: 55436751}
-  _audioSource: {fileID: 1752483207}
+  _fireballHit: {fileID: 1752483207}
 --- !u!82 &1752483207
 AudioSource:
   m_ObjectHideFlags: 0
